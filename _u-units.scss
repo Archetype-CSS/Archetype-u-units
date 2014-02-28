@@ -8,7 +8,7 @@
 /**
  * Percentage 
  * 
- * calculate a percentage based on values independant of Susy
+ * calculate a percentage based on values independant of layout
  */
 @function calc-percent($target, $container) {
   @return $target / $container * 100%;
@@ -17,7 +17,7 @@
 /**
  * Ems
  * 
- * calculate an em value based on values independant of Susy
+ * calculate an em value based on values independant of layout
  */
 @function calc-em($target, $container) {
   @return $target / $container * 1em;
