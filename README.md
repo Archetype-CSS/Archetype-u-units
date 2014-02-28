@@ -17,7 +17,7 @@ Archetype utility for manipulating units.
 
 ```bash
 git clone https://github.com/Archetype-CSS/u-units.git
-cd Archetype-test
+cd u-units
 npm install
 grunt
 ```
