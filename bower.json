@@ -1,12 +1,11 @@
 {
   "name": "Archetype-u-units",
-  "version": "0.1.0",
+  "version": "0.8.0",
   "author": "Sam Ashley",
   "main": "_u-units.scss",
   "ignore": [
     ".*",
     "CHANGELOG.md",
-    "package.json",
-    "/test"
+    "package.json"
   ]
 }
