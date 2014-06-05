@@ -1,10 +1,10 @@
-# u-units [![Build Status](https://secure.travis-ci.org/Archetype-CSS/u-units.png?branch=master)](http://travis-ci.org/Archetype-CSS/u-units) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+# Archetype-u-units [![Build Status](https://secure.travis-ci.org/Archetype-CSS/Archetype-u-units.png?branch=master)](http://travis-ci.org/Archetype-CSS/Archetype-u-units) [![Dependency Status](https://gemnasium.com/Archetype-CSS/Archetype-u-units.svg)](https://gemnasium.com/Archetype-CSS/Archetype-u-units) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
 Archetype utility for manipulating units.
 
 ## Installation
-  * [Bower](http://bower.io): {{coming soon}}
-  * Git: `git clone https://github.com/Archetype-CSS/u-units.git`
+  * [Bower](http://bower.io): `bower install Archetype-u-units`
+  * Git: `git clone https://github.com/Archetype-CSS/Archetype-u-units.git`
 
 ## Use
   * `@include calc-percent($target, $container)` - calculates the percent value
@@ -16,8 +16,8 @@ Archetype utility for manipulating units.
 ## Run the Test Locally
 
 ```bash
-git clone https://github.com/Archetype-CSS/u-units.git
-cd u-units
+git clone https://github.com/Archetype-CSS/Archetype-u-units.git
+cd Archetype-u-units
 npm install
 grunt
 ```
